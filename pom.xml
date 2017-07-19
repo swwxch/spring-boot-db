@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>mysql</module>
         <module>redis</module>
+        <module>mysql</module>
     </modules>
    <parent>
     <groupId>org.springframework.boot</groupId>
