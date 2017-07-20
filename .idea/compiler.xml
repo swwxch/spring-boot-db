@@ -22,12 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="mongodb" />
         <module name="mysql" />
+        <module name="neo4j" />
         <module name="redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mongodb" target="1.8" />
       <module name="mysql" target="1.8" />
+      <module name="neo4j" target="1.8" />
       <module name="redis" target="1.8" />
       <module name="spring-boot-db" target="1.8" />
     </bytecodeTargetLevel>
