@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mysql/mysql.iml" filepath="$PROJECT_DIR$/mysql/mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/neo4j/neo4j.iml" filepath="$PROJECT_DIR$/neo4j/neo4j.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rootstar/rootstar.iml" filepath="$PROJECT_DIR$/rootstar/rootstar.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-db.iml" filepath="$PROJECT_DIR$/spring-boot-db.iml" />
     </modules>
   </component>

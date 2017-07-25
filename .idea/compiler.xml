@@ -24,15 +24,19 @@
         <processorPath useClasspath="true" />
         <module name="mongodb" />
         <module name="mysql" />
+        <module name="mysql-db" />
         <module name="neo4j" />
         <module name="redis" />
+        <module name="rootstar" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mongodb" target="1.8" />
       <module name="mysql" target="1.8" />
+      <module name="mysql-db" target="1.8" />
       <module name="neo4j" target="1.8" />
       <module name="redis" target="1.8" />
+      <module name="rootstar" target="1.8" />
       <module name="spring-boot-db" target="1.8" />
     </bytecodeTargetLevel>
   </component>
